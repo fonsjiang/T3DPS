@@ -13,10 +13,9 @@ Official implementation of **Text-based Three-dimensional Geometric Person Retri
 ---
 
 ## Highlights
-- **Text-to-3D retrieval** for person search using geometric 3D cues.
-- [Feature 1] e.g., robust cross-modal alignment with contrastive learning.
-- [Feature 2] e.g., efficient 3D representation / point cloud / mesh encoder.
-- Reproducible training and evaluation scripts.
+- Pioneering integration of textual descriptions with synthesized 3D geometric pedestrian data for text-based person re-identification.
+- Novel framework that leverages complementary strengths of text semantics and 3D geometry to address resolution, viewpoint, and occlusion challenges.
+- Extensive experiments on three public datasets demonstrate competitive performance and practical applicability in real-world scenarios.
 
 ---
 
@@ -32,6 +31,11 @@ Official implementation of **Text-based Three-dimensional Geometric Person Retri
 </p>
 
 ---
+
+## Results
+<p align="center">
+  <img src="Results.png" width="85%">
+</p>
 
 ## Environment
 - OS: Linux/macOS/Windows
