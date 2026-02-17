@@ -28,7 +28,7 @@ Official implementation of **Text-based Three-dimensional Geometric Person Retri
 
 ## Method Overview
 <p align="center">
-  <img src="t_3dps_image.pdf" width="85%">
+  <img src="t_3dps.png" width="85%">
 </p>
 
 **Pipeline**: Given a textual description, the model retrieves the corresponding 3D person geometry (and optionally multi-view images) from a gallery.
