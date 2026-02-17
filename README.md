@@ -31,10 +31,6 @@ Official implementation of **Text-based Three-dimensional Geometric Person Retri
   <img src="t_3dps.png" width="85%">
 </p>
 
-**Pipeline**: Given a textual description, the model retrieves the corresponding 3D person geometry (and optionally multi-view images) from a gallery.
-
-> Put your method figure in `assets/teaser.png`.
-
 ---
 
 ## Environment
@@ -47,8 +43,8 @@ Official implementation of **Text-based Three-dimensional Geometric Person Retri
 
 ## Installation
 ```bash
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/fonsjiang/T3DPS.git
+cd T3DPS
 
 # (Recommended) create env
 conda create -n t3dpr python=3.10 -y
