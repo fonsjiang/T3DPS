@@ -21,7 +21,7 @@ Official implementation of **Text-based Three-dimensional Geometric Person Retri
 
 ## News
 - **2026-02-18**: Repository initialized.
-- [Add your milestones here.]
+- ...
 
 ---
 
